@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/data-storage-comp-mobile-first-cZwQBnq2mY)
 - Live Site URL: [My solution](https://frontend-mentor-11-nu.vercel.app/)
 
 ## My process
